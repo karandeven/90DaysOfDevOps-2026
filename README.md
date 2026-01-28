@@ -1,2 +1,2 @@
 # 90DaysOfDevOps-2026
-My hands-on DevOps &amp; Cloud learning journey (TrainWithShubham Batch 9)
+My hands-on DevOps & Cloud learning journey
